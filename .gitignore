@@ -103,8 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
+.*-cache
+
 .idea
-
-*.cache
-
-*.parcel-cache
